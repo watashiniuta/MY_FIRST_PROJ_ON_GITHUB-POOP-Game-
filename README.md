@@ -1,1 +1,3 @@
 # MY_FIRST_PROJ_ON_GITHUB-POOP-Game-
+
+Actually this project upload is my first upload on github....
